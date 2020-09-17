@@ -1,5 +1,6 @@
 hi hihi 김상욱 메롱
 수정
+<<<<<<< HEAD
 dddddㅇㄹㅇㄹㅇㄹㅇㄹ
 testㅇㅇㅇ
 욥얍욥얍 branch oh
@@ -10,3 +11,6 @@ test
 branch yoon
 욥얍욥얍
 test
+=======
+수정완료쓰
+>>>>>>> yoon
